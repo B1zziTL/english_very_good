@@ -1,0 +1,8 @@
+obdĺžnik
+rectangle
+štvorec
+square
+trojuholník
+triangle
+čiara
+line
